@@ -1,0 +1,2 @@
+C:\Users\John Landers\Documents\EnginHears\FFT_IFFT\Debug\FFT_IFFT.exe
+C:\Users\John Landers\Documents\EnginHears\FFT_IFFT\Debug\FFT_IFFT.pdb
